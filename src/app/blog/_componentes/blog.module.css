@@ -270,14 +270,7 @@
   padding-left: 0.5rem;
 }
 
-.blogFullContent li::before {
-  content: "•";
-  color: rgb(122, 146, 102);
-  font-weight: bold;
-  display: inline-block;
-  width: 1em;
-  margin-left: -1em;
-}
+
 
 .blogFullContent em {
   font-style: italic;
